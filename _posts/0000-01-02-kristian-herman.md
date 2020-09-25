@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Vitej na druhem slidu!"
 ---
-something new
-Use the left arrow to go back!
+neco noveho
+Pouzij levou sipku k presunu vlevo
